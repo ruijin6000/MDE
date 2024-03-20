@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/ruijin6000/MDE#readme",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.30",
+    "express": "^4.19.0"
   }
 }
